@@ -2,7 +2,6 @@ var kNear = function(k) {
     //PRIVATE
     var training = [];
 
-
     //compute the euclidean distance between two vectors
     //function assumes vectors are arrays of equal length
     var dist = function(v1, v2) {
@@ -80,3 +79,5 @@ var kNear = function(k) {
         return mode(votes);
     };
 };
+
+module.exports = kNear;
