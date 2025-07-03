@@ -1,9 +1,5 @@
 # Project Alias 2.0
 
-<p float="left">
-<img src="imgs/alias.jpg" width="49%"> <img src="imgs/short_alias_explained.gif" width="49%">
-</p>
-
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![License: GPL](https://img.shields.io/badge/license-GPL-blue)
 
@@ -150,10 +146,6 @@ git clone https://github.com/bjoernkarmann/project_alias.git
 ### Change assistant
 
 If you are using **Google Home** or an **Amazon Alexa** the way you change the wake up word is simply by writing it in the responds field in the Alias web-app
-
-
-### Contributors
-Made by **[Bjørn Karmann](http://bjoernkarmann.dk)** and **[Tore Knudsen](http://www.toreknudsen.dk/)**
 
 
 ### License
